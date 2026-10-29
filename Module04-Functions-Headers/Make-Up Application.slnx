@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Make-Up Application/Make-Up Application.vcxproj" Id="725c9272-3ad6-40ed-b339-53f42bdad535" />
+</Solution>
